@@ -1,0 +1,2 @@
+product_id,sku,barcode,name,description,category,brand,unit,purchase_cost,selling_price,wholesale_price,tax_category,min_stock,max_stock,supplier_id,image_path,is_active,created_at,updated_at
+prdc35b5d2f3822,test,,test,test,test,test,test,10000,20000,15000,,10,100,test,,true,2026-10-15T16:09:07+07:00,2026-10-15T16:09:07+07:00

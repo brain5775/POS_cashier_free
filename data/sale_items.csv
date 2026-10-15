@@ -1,0 +1,1 @@
+sale_item_id,sale_id,product_id,product_name,sku,barcode,quantity,unit_price,discount,total,line_cost,created_at

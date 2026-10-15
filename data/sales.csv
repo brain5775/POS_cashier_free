@@ -1,0 +1,1 @@
+sale_id,receipt_number,transaction_id,customer_id,user_id,subtotal,discount_total,tax_total,total,payment_status,status,notes,created_at

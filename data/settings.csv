@@ -1,0 +1,16 @@
+setting_key,setting_value,updated_at
+business_name,Rey Retail,2026-10-15T15:51:41+07:00
+business_address,,2026-10-15T15:51:41+07:00
+business_phone,,2026-10-15T15:51:41+07:00
+business_email,,2026-10-15T15:51:41+07:00
+currency,IDR,2026-10-15T15:51:41+07:00
+tax_rate,0.00,2026-10-15T15:51:41+07:00
+tax_mode,exclusive,2026-10-15T15:51:41+07:00
+receipt_header,Thank you for shopping with us.,2026-10-15T15:51:41+07:00
+receipt_footer,Powered by Integrated POS,2026-10-15T15:51:41+07:00
+theme,light,2026-10-15T15:51:41+07:00
+language,en,2026-10-15T15:51:41+07:00
+default_low_stock,5,2026-10-15T15:51:41+07:00
+allow_negative_stock,false,2026-10-15T15:51:41+07:00
+date_format,%Y-%m-%d %H:%M:%S,2026-10-15T15:51:41+07:00
+number_format,"#,##0.00",2026-10-15T15:51:41+07:00

@@ -1,0 +1,2 @@
+user_id,username,full_name,role,password_hash,is_active,created_at,updated_at,last_login_at
+usrbfee10e3cc01,admin,Administrator,Administrator,"$argon2id$v=19$m=65536,t=3,p=4$pQW3/9ixiC4dXEwuMsXZlw$q/44p+EmopieYvQlYCH5KugB2wNroIsEQFcqqY3aU5M",true,2026-10-15T15:51:41+07:00,2026-10-15T15:51:41+07:00,2026-10-15T16:10:41+07:00

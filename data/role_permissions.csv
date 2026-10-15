@@ -1,0 +1,59 @@
+role_name,permission
+Administrator,dashboard.view
+Administrator,pos.use
+Administrator,sales.view
+Administrator,returns.create
+Administrator,returns.approve
+Administrator,products.view
+Administrator,products.manage
+Administrator,inventory.view
+Administrator,inventory.manage
+Administrator,purchases.view
+Administrator,purchases.manage
+Administrator,suppliers.manage
+Administrator,customers.view
+Administrator,customers.manage
+Administrator,cash_register.use
+Administrator,cash_register.manage
+Administrator,reports.view
+Administrator,reports.export
+Administrator,users.manage
+Administrator,settings.manage
+Administrator,backup.manage
+Manager,dashboard.view
+Manager,pos.use
+Manager,sales.view
+Manager,returns.create
+Manager,returns.approve
+Manager,products.view
+Manager,products.manage
+Manager,inventory.view
+Manager,inventory.manage
+Manager,purchases.view
+Manager,purchases.manage
+Manager,suppliers.manage
+Manager,customers.view
+Manager,customers.manage
+Manager,cash_register.use
+Manager,cash_register.manage
+Manager,reports.view
+Manager,reports.export
+Manager,backup.manage
+Cashier,dashboard.view
+Cashier,pos.use
+Cashier,sales.view
+Cashier,returns.create
+Cashier,products.view
+Cashier,customers.view
+Cashier,customers.manage
+Cashier,cash_register.use
+Inventory Staff,dashboard.view
+Inventory Staff,products.view
+Inventory Staff,products.manage
+Inventory Staff,inventory.view
+Inventory Staff,inventory.manage
+Inventory Staff,purchases.view
+Inventory Staff,purchases.manage
+Inventory Staff,suppliers.manage
+Inventory Staff,reports.view
+Inventory Staff,reports.export
